@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Domain-Specific LLM Fine-Tuning & Foundational Model Building",
+    "description": "Fine-tuned LLMs like BERT and GPT using supervised fine-tuning, PEFT (LoRA), and GRPO for agriculture, finance, and insurance domains. Built foundational LLMs tailored to specific business tasks with optimization pipelines and advanced prompt engineering.",
+    "repo": "",
+    "status": "Completed"
+  },
+  {
+    "title": "NLP-to-SQL & Knowledge Graph-Based Question Answering",
+    "description": "Developed NLP-to-SQL pipelines enabling users to perform natural language queries on relational databases. Integrated vector search and knowledge graphs to support semantic search and Retrieval-Augmented Generation (RAG) via Django REST APIs.",
+    "repo": "",
+    "status": "Completed"
+  },
+  {
+    "title": "Multimodal Retrieval System for Agri & Insurance Domains",
+    "description": "Built multimodal search system using image and text embeddings to enable querying of harvest reports and insurance data. Exposed retrieval functionality through secure REST endpoints using Django REST Framework.",
+    "repo": "",
+    "status": "Completed"
+  },
+  {
+    "title": "AI Agent Framework for Business Intelligence Automation",
+    "description": "Developed multi-agent LLM frameworks for automating reporting, data summarization, and business insights. Deployed backend using Django REST Framework to serve agent tasks and orchestrate LLM workflows in real-time.",
+    "repo": "",
+    "status": "Completed"
+  },
+  {
+    "title": "Graph Neural Networks for Knowledge Representation",
+    "description": "Modeled complex entity relationships using Graph Neural Networks for recommendation and talent-matching systems. Designed hybrid recommenders with collaborative filtering and graph-based retrieval using LightFM and RecBole.",
+    "repo": "",
+    "status": "Completed"
+  },
+  {
+    "title": "Talent Acquisition Agent with PDF Parsing and LLM Integration",
+    "description": "Automated candidate profiling by converting resumes from PDFs to Markdown format using PyMuPDF and custom parsing logic. Integrated LLM agents for job-fit matching and skill extraction, with backend served via Django REST API.",
+    "repo": "",
+    "status": "Completed"
+  }
+]

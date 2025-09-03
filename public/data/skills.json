@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Programming & Frameworks",
+    "keywords": ["Python", "R", "Mojo", "Java", "C++", "Julia", "SQL", "PyTorch", "TensorFlow", "JAX", "Scikit-learn", "XGBoost", "LightGBM","FastAPI", "Django"]
+  },
+   {
+    "name": "Robotics",
+    "keywords": ["Control System","Ros2", "Simulations", "SLAM","Reinforcement Learning","Computer Vision"]
+  },
+  {
+    "name": "AI/ML Concepts",
+    "keywords": ["Classification", "Regression", "Clustering", "Deep Learning", "Transfer Learning", "GANs", "Diffusion", "Reinforcement Learning", "Few-shot", "Zero-shot", "Self-Supervised Learning"]
+  },
+  {
+    "name": "NLP & Computer Vision",
+    "keywords": ["Hugging Face Transformers", "SpaCy", "NLTK", "OpenCV", "YOLO", "ViT", "CLIP", "MediaPipe", "OCR", "Image Captioning", "Text Summarization", "RAG", "GPT", "BERT", "DSPy", "TextGrad"]
+  },
+  {
+    "name": "Agents & Workflows",
+    "keywords": ["LangChain", "LangGraph", "AutoGen", "CrewAI", "Multi-Agent Systems"]
+  },
+  {
+    "name": "Information Retrieval & Knowledge Systems",
+    "keywords": ["Vector Embeddings", "FAISS", "Semantic Search", "Knowledge Graphs", "GNNs (PyG, DGL)", "Neo4j", "Recommenders (LightFM, RecBole)"]
+  },
+  {
+    "name": "Cloud & MLOps",
+    "keywords": ["Docker", "Git", "GitHub Actions", "ONNX", "Hydra", "DVC", "MLflow", "wandb", "Weights & Biases","AWS (Lambda, SageMaker, Bedrock)", "GCP (Vertex AI, BigQuery)", "Elastic Stack", "Kibana"]
+  },
+  {
+    "name": "Data & Visualization",
+    "keywords": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Excel", "Power BI", "Streamlit", "Plotly"]
+  }
+]
