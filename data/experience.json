@@ -7,25 +7,25 @@
     "location": "Tiruchirappalli, Tamil Nadu, India • On-site",
     "description": "Spearheaded AI research and development across Agriculture, Insurance, Talent Acquisition, Finance, and Business Intelligence domains. Worked on LLM fine-tuning, foundational model building, NLP-to-SQL, multimodal retrieval, and multi-agent frameworks. Deployed AI workflows via Django REST APIs.",
     "skills": ["Product Development", "PyTorch", "LangChain", "Transformers", "Django REST", "Linux"],
-    "companylogo":"/data/images/experience/iagami/company.png",
+    "companylogo":"data/images/experience/iagami/company.png",
     "images": [
       {
-        "image": "/data/images/experience/iagami/iagami1.png",
+        "image": "data/images/experience/iagami/iagami1.png",
         "subtitle":"my self @iagami - From curiosity to contribution",
         "description": "From curiosity to contribution — a year of learning, building, and growing at iAgami Technologies. Here's to bold ideas, real impact, and what's next!"
       },
       {
-        "image": "/data/images/experience/iagami/iagami2.png",
+        "image": "data/images/experience/iagami/iagami2.png",
         "subtitle":"iAgami’s Agami platform",
         "description": "I’m Rajadhurai, an AI researcher and developer at iAgami, working on the Agami platform—a Generative AI-powered solution transforming knowledge management. I develop AI assistants like Agri Genie to optimize farming, Insurance Genie to analyze claims, and Legacy Genie to extract text from complex images. My mission is to leverage AI to automate processes, empower businesses, and drive real-world impact, pushing the limits of what AI can achieve every day."
       },
       {
-        "image": "/data/images/experience/iagami/iagami3.png",
+        "image": "data/images/experience/iagami/iagami3.png",
         "subtitle":"Introducing Agami platform- Revolutionary GenAI Agents- Genies",
         "description": "Agami platform is a centralized GenAI based knowledge management platform with agents trained on different domains."
       },
       {
-        "image": "/data/images/experience/iagami/iagami4.png",
+        "image": "data/images/experience/iagami/iagami4.png",
         "subtitle":"iAgami | We empower emerging businesses",
         "description": "About iAgami Technologies Private Limited. At iAgami Technologies, we are dedicated to bringing enterprise-grade, globally trusted talent in technology, business, and operations into the business incubation ecosystem. Our mission is to enable future leaders to excel through value-centric engagement models. We strive to be a globally trusted partner for innovative business ventures, offering disruptive products and services that drive growth and transformation in the digital age."
       }
