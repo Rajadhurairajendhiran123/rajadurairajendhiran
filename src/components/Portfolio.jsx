@@ -56,13 +56,13 @@ export default function Portfolio() {
 
     useEffect(() => {
         const fetchData = async () => {
-            await fetch(domain + "/data/projects.json").then(res => res.json()).then(setProjects);
-            await fetch(domain + "/data/skills.json").then(res => res.json()).then(setSkills);
-            await fetch(domain + "/data/certifications.json").then(res => res.json()).then(setCertifications);
-            await fetch(domain + "/data/experience.json").then(res => res.json()).then(setExperience);
-            await fetch(domain + "/data/education.json").then(res => res.json()).then(setEducation);
-            await fetch(domain + "/data/contact.json").then(res => res.json()).then(setContact);
-            await fetch(domain + "/data/profile.json").then(res => res.json()).then((data) => { setProfile(data) })
+            await fetch("data/projects.json").then(res => res.json()).then(setProjects);
+            await fetch("data/skills.json").then(res => res.json()).then(setSkills);
+            await fetch("data/certifications.json").then(res => res.json()).then(setCertifications);
+            await fetch("data/experience.json").then(res => res.json()).then(setExperience);
+            await fetch("data/education.json").then(res => res.json()).then(setEducation);
+            await fetch("data/contact.json").then(res => res.json()).then(setContact);
+            await fetch("data/profile.json").then(res => res.json()).then((data) => { setProfile(data) })
             setLoading(false);
         };
         fetchData();
