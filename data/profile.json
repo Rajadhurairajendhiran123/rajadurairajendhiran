@@ -1,0 +1,25 @@
+{
+  "name": "Rajadurai Rajendhiran",
+  "title": "Research and Development Enginner - Intelligent Computation & Robotics",
+  "profileImage": "/data/profile.png",
+  "social": {
+    "github": "https://github.com/Rajadhurairajendhiran123",
+    "linkedin": "http://linkedin.com/in/rajadhurai-rajendhiran-2474b82b1",
+    "website": ""
+  },
+  "sections": {
+    "experience": "Work Experience",
+    "education": "Education",
+    "skills": "Technical Skills",
+    "certifications": "Certifications",
+    "projects": "Projects",
+    "contact": "Let's Connect",
+    "research":"Research"
+  },
+  "contactText": "Passionate about AI, ML, DL, Computer Vision, Physical AI, and Computational Theory. Open to internships, research collaborations, and AI-driven software engineering roles.",
+  "buttons": {
+    "viewCertificate": "View Certificate",
+    "github": "GitHub"
+  },
+  "banner":"/data/images/banner.png"
+}
