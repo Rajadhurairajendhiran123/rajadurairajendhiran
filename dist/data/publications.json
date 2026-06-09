@@ -1,0 +1,29 @@
+[
+  {
+    "title": "A Multi-Stage Text-to-SQL Framework using MSE-Extraction and Query Recall Optimization",
+    "type": "Conference Publication",
+    "publisher": "IEEE IC3IT 2025",
+    "date": "2025",
+    "status": "Published",
+    "description": "Published research on multi-stage Text-to-SQL generation with MSE-extraction, multi-agent query generation, and recall-based optimization.",
+    "url": "https://ieeexplore.ieee.org/document/11341345"
+  },
+  {
+    "title": "Doc2GraphQA: Document to Knowledge Graph Question Answering System",
+    "type": "Conference Publication",
+    "publisher": "IEEE SMART 2025",
+    "date": "2025",
+    "status": "Published",
+    "description": "Published research on transforming multi-format documents into semantically enriched knowledge graphs for symbolic-neural question answering.",
+    "url": "https://ieeexplore.ieee.org/document/11389274"
+  },
+  {
+    "title": "Multi-Spectral Housing for AI-Driven Sensor to Monitor Agriculture and Yield",
+    "type": "Registered Design / Patent",
+    "publisher": "UK Intellectual Property Office",
+    "date": "Mar 2026",
+    "status": "Granted",
+    "description": "Contributed to an AI-based agricultural monitoring design focused on multi-spectral sensing for crop and yield intelligence.",
+    "url": "data/documents/uk-granted-patent-certificate.pdf"
+  }
+]

@@ -1,10 +1,10 @@
 {
   "name": "Rajadurai Rajendhiran",
-  "title": "Research and Development Enginner - Intelligent Computation & Robotics",
+  "title": "Research and Development Engineer - Intelligent Computation & Robotics",
   "profileImage": "data/profile.png",
   "social": {
     "github": "https://github.com/Rajadhurairajendhiran123",
-    "linkedin": "http://linkedin.com/in/rajadhurai-rajendhiran-2474b82b1",
+    "linkedin": "https://linkedin.com/in/rajadurai-rajendhiran-2474b82b1",
     "website": ""
   },
   "sections": {
@@ -14,12 +14,12 @@
     "certifications": "Certifications",
     "projects": "Projects",
     "contact": "Let's Connect",
-    "research":"Research"
+    "research": "Research"
   },
-  "contactText": "Passionate about AI, ML, DL, Computer Vision, Physical AI, and Computational Theory. Open to internships, research collaborations, and AI-driven software engineering roles.",
+  "contactText": "AI researcher and developer currently working at Meridian Solutions. Focused on intelligent computation, robotics, LLM systems, computer vision, RAG, and practical AI products that move from research ideas into deployed workflows.",
   "buttons": {
     "viewCertificate": "View Certificate",
     "github": "GitHub"
   },
-  "banner":"data/images/banner.png"
+  "banner": "data/images/banner.png"
 }

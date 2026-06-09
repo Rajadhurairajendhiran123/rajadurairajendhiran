@@ -1,0 +1,26 @@
+[
+  {
+    "title": "A Multi-Stage Text-to-SQL Framework using MSE-Extraction and Query Recall Optimization",
+    "role": "Student Researcher",
+    "venue": "IEEE IC3IT 2025",
+    "status": "Published",
+    "description": "A published research project focused on reliable, low-latency Text-to-SQL generation for relational databases.",
+    "highlights": [
+      "Designed a multi-stage Text-to-SQL framework integrating MSE-extraction, multi-agent query generation, and recall-based optimization, achieving 89.3% exact-match accuracy and 92.1% execution accuracy on relational databases.",
+      "Implemented query recall optimization with similarity-based retrieval, reducing average query latency by 59.5% and improving robustness for real-time, domain-specific database querying."
+    ],
+    "keywords": ["Text-to-SQL", "MSE-Extraction", "Query Recall", "Multi-Agent Systems", "Relational Databases"]
+  },
+  {
+    "title": "Doc2GraphQA: Document to Knowledge Graph Question Answering System",
+    "role": "Student Researcher",
+    "venue": "IEEE SMART 2025",
+    "status": "Published",
+    "description": "A published research project for converting documents into knowledge graphs for interpretable question answering.",
+    "highlights": [
+      "Designed a unified Doc2GraphQA framework that transforms multi-format documents into semantically enriched knowledge graphs, enabling multi-hop question answering, aggregation, and predictive reasoning using LLMs.",
+      "Built a hybrid symbolic-neural QA engine combining entity-relation extraction, graph embeddings, Cypher-based querying, and multi-agent LLM reasoning, supporting scalable and interpretable QA across fixed and open-schema documents."
+    ],
+    "keywords": ["Knowledge Graphs", "Question Answering", "LLMs", "Cypher", "Graph Embeddings"]
+  }
+]
